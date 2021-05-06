@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7284cb6720e993468d1f34a39ec6baa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UISprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  - bullet: {fileID: 4080509296731531478, guid: 0432fbafa97934b4489dd79aeef3657a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

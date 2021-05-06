@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c6ee3449a0549d641be78e5d103ec321
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nanoswarm: {fileID: 6639331989751209460, guid: e6755867813c6e34cbaab677171f612c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
